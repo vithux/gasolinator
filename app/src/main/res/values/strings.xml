@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gasolinator</string>
+    <string name="posto_gasolina">Nome do Posto</string>
+    <string name="quilometros_rodados">Quilômetros Rodados</string>
+    <string name="preco_abastecida">Preço da Abastecida</string>
+    <string name="litros_abastecidos">Litros Abastecidos</string>
+    <string name="botao_ok">Ok</string>
+    <string name="botao_cancelar">Cancelar</string>
+    <string name="botao_incluir">Incluir</string>
+    <string name="data">Data</string>
+    <string name="campo_vazio">Esse campo não pode ser vazio</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
